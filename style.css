@@ -1,6 +1,13 @@
-  body {
-    background-image: url(images/background.jpg;
-	background-size: 100% 100%;
+  #background {
+    background-image: url(images/background.jpg);
+	background-size: 100%;
 	}
 	
-	
+  #title {
+	text-align: center;
+	background-color: black;
+	font-family: 'Titan One', cursive;
+	font-size: 60px;
+	color: #FFF8DC;
+	margin-top: 0;
+  }
